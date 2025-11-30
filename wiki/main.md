@@ -10,7 +10,6 @@ Sebuah game platformer vertikal dimana player (pocong) dikejar oleh pos para bap
 - [**Map generation**](map_setup.md)
 - [**Player controller**](character_setup.md)
 - [**Game system**](game_systems.md)
-- [**User interface**](user_interface.md)
 
 
 
