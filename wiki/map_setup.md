@@ -43,3 +43,5 @@ Two types of obstacle generation:
 - General Speed Increase: **+2 pixels/second**
 - Max Speed: Capped at **800** pixels/second
 - During boost: **x2** from original speed
+
+[< Back to main](main.md)
